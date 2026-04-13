@@ -33,11 +33,10 @@ This repo documents every step ,failures and wins.
 ## Weekly Log
 
 ### Week 1 (April 12-19, 2026)
-- [x] Linux VM setup
-- [x] Remotasks signup (earning while learning)
-- [ ] First C++ program: "Hello World"
+- [o] Linux VM setup
+- [o] Remotasks signup (earning while learning)
 - [ ] C++ OOP: Classes and objects
-- [ ] GitHub repo setup
+- [o] GitHub repo setup
 
 **Money Earned:** ₹0 from Remotasks  
 **Hours on Robotics:** 0
